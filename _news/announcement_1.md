@@ -1,8 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-26
 inline: true
-related_posts: false
 ---
-
-A simple inline announcement.
+📖 [RadarOcc](https://toytiny.github.io/publication/24-radarocc-neurips/) accepted to [NeurIPS-2024](https://neurips.cc/)! 
