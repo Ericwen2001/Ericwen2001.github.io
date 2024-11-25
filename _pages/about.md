@@ -2,21 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Edinburgh</a>. Address. Contacts. Motto. Etc.
+subtitle: MRes Student @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank">School of Informatics</a>, 
+  <a href="https://www.ed.ac.uk" target="_blank">University of Edinburgh</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    Istanbul, 2023
 
-
-news: true # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: False # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
+nav_order: 0
 ---
+<h2>about me</h2>
+I am an MRes graduate from the School of Informatics, University of Edinburgh, supervised by <a href="https://christopherlu.github.io/" target="_blank">Prof. Chris Xiaoxuan Lu</a> . 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on advancing the robustness, efficiency, and adaptability of multimodal sensor learning. These efforts aim to support applications (e.g. localization, mapping) in mobile robots, autonomous vehicles, and AIoT systems. Currently, my work emphasizes leveraging **thermal cameras** and **4D imaging radar** to overcome challenges posed by adverse weather and illumination conditions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my B.Eng degree with the first class honour School of Informatics, University of Edinburgh (2019-2023).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+👉 I am open to collaborations and potential PhD/research internships in 2024. Please feel free to reach out via email if you think we could work together!
