@@ -24,4 +24,4 @@ My research focuses on advancing the robustness, efficiency, and adaptability of
 
 I received my B.Eng degree with the first class honour School of Informatics, University of Edinburgh (2019-2023).
 
-👉 I am open to collaborations and potential PhD/research internships in 2024. Please feel free to reach out via email if you think we could work together!
+👉 I am open to collaborations and potential PhD/research internships in 2024. Please feel free to reach out via email wenxiangyu2001[at]gmail.com if you think we could work together!
